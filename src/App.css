@@ -1,0 +1,73 @@
+/* No Match Found Start */
+
+.page_not_found {
+    text-align: center;
+    font-size: -webkit-xxx-large;
+    position: relative;
+    top: 50%;
+}
+
+.bg-cover {
+    background: lightgray;
+    height: 100vh;
+}
+
+.c-error {
+    margin-top: 5px;
+}
+
+
+/* No Match Found End */
+
+.MuiButton-label {
+    width: 100%;
+    display: inherit;
+    align-items: inherit;
+    color: white;
+}
+
+
+/* Logout Button Start */
+
+.btn-primary {
+    color: #fff;
+    margin-top: -7px;
+    margin-right: -34px;
+    background-color: #3f51b5;
+    border-color: #3f51b5;
+}
+
+
+/* Logout Button End */
+
+
+/* Preofile User Name Start */
+
+.name_tag {
+    position: fixed;
+    right: 89px;
+    bottom: 5px;
+    top: 12px;
+    margin-top: 0;
+    margin-bottom: 1rem;
+    font-size: 22px;
+    text-transform: capitalize;
+}
+
+
+/* Preofile User Name End */
+
+
+/* SideBar Heading Start */
+
+.cesano_bike_heading {
+    color: black;
+    transition: initial;
+}
+
+a:hover {
+    color: none;
+}
+
+
+/* SideBar Heading End */
